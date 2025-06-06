@@ -11,4 +11,4 @@ JavaScript, TypeScript, Next.js, React, Java, Python, Flask, SQL
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=esbrunil&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esbrunil&show_icons=true&count_private=true&theme=react)
